@@ -89,3 +89,4 @@ The application uses the Dropbox API to authenticate users and manage files. Her
 
 The application collects and stores the Dropbox API key and the PC username to manage save files. We do not share this information with third parties. For more details, consult our [Privacy Policy](https://docs.google.com/document/d/1Nx1AiREQtFlXOAXRFG812Kg21NW0BOLdmUEjV1Jfeg4/edit?usp=sharing).
 
+![GameSavesDoxData v1](https://github.com/user-attachments/assets/f4aba752-a4de-4933-9fa2-7c01ccafe5ab)

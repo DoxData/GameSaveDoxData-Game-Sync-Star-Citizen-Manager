@@ -91,6 +91,6 @@ The application collects and stores the Dropbox API key and the PC username to m
 
 ![GameSavesDoxData v1](https://github.com/user-attachments/assets/f4aba752-a4de-4933-9fa2-7c01ccafe5ab)
 
-DOWNLOAD
+DOWNLOAD:
 https://github.com/DoxData/GameSaveDoxData/releases/tag/GameSaveDoxData.v1
 

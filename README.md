@@ -96,9 +96,6 @@ The application uses the Dropbox API to authenticate users and manage files. Her
 
 The application collects and stores the Dropbox API key and the PC username to manage game save files. We do not share this information with third parties. For more details, see our [Privacy Policy](https://docs.google.com/document/d/1Nx1AiREQtFlXOAXRFG812Kg21NW0BOLdmUEjV1Jfeg4/edit?usp=sharing).
 
----
-
-This version highlights the **Star Citizen USER folder sync feature** in the title and throughout the description, making it clear that the tool is tailored for gamers, especially Star Citizen players. 😊
 
 ![GameSavesDoxData v1](https://github.com/user-attachments/assets/f4aba752-a4de-4933-9fa2-7c01ccafe5ab)
 

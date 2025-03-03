@@ -1,7 +1,7 @@
 
 # GameSaveDoxData: Game Sync & Star Citizen Manager
 
-![GameSavesDoxData v1](https://github.com/user-attachments/assets/f4aba752-a4de-4933-9fa2-7c01ccafe5ab)
+![GameSavesDoxData v1](https://github.com/user-attachments/assets/228aed70-42ee-4433-b327-187db9359610)
 
 **GameSaveDoxData: Game Sync & Star Citizen Manager** is a powerful game save file management tool that allows users to scan their local directories for game save files, sync them with their Dropbox account, and manage these files efficiently through an intuitive interface. Designed with gamers in mind, it includes a special feature to **sync the Star Citizen "USER" folder with Dropbox**, making it the ultimate tool for Star Citizen players to back up and manage their game settings, keybindings, and profiles.
 

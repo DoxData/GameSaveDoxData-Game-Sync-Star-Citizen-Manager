@@ -98,4 +98,4 @@ The application uses the Dropbox API to authenticate users and manage files. Her
 
 The application collects and stores the Dropbox API key and the PC username to manage game save files. We do not share this information with third parties. For more details, see our [Privacy Policy](https://docs.google.com/document/d/1Nx1AiREQtFlXOAXRFG812Kg21NW0BOLdmUEjV1Jfeg4/edit?usp=sharing).
 
-DOWNLOAD: https://nlink.at/GameSaveV2
+DOWNLOAD: (https://nlink.at/GameSaveDoxData_v1)
